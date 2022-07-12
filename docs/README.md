@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Mechanical Battery
 
 Docs
 
