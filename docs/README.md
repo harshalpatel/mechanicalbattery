@@ -1,39 +1,38 @@
-## The Mechanical Battery
+# The Mechanical Battery
 
-Docs
+The Mechanical Battery is an energy storage solution that can cost effectively store excess renewwable energy.
 
-You can use the [editor on GitHub](https://github.com/mechanicalbattery/mechanicalbattery/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+The pages on this site document the research, development and hopefully deployment of this battery.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br ><br >
 
-### Markdown
+## Battery Characteristics
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following is a list of various battery characteristics
 
-```markdown
-Syntax highlighted code block
+1. Energy Density (volumetrics and gravimetric)<br >
+The amount of energy that can be stored in an amount of space and per unit of weight. 
 
-# Header 1
-## Header 2
-### Header 3
+2. Cost (energy and power)<br >
+The cost per unit of energy (kwH) and power (kW)
+Batteries can be energy or power limited. 
 
-- Bulleted
-- List
+3. Power output<br >
+How fast a battery can be charged or discharged. 
 
-1. Numbered
-2. List
+4. Cycle Life<br >
+Numer of times a batter can discharge or recharge before it degrades to no longer be useful.
 
-**Bold** and _Italic_ and `Code` text
+5. Round Trip Efficiency<br >
+Losses during charging and discharging. 
 
-[Link](url) and ![Image](src)
-```
+6. Environmental: Safety, Temperation and Noise<br >
+Some batteries are temperature sensitive, some emit a lot of noise and some can easily catch fire.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<br ><br >
 
-### Jekyll Themes
+## Sources
+---
+https://gridcognition.com/what-makes-a-good-battery-energy-storage-system/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mechanicalbattery/mechanicalbattery/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
