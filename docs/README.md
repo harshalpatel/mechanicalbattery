@@ -4,7 +4,7 @@ The Mechanical Battery is an energy storage solution that can cost effectively s
 
 The pages on this site document the research, development and hopefully deployment of this battery.
 
-<br ><br >
+<br ><br ><br >
 
 ## Battery Characteristics
 ---
