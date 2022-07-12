@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-ROOT
+Docs
 
 You can use the [editor on GitHub](https://github.com/mechanicalbattery/mechanicalbattery/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
