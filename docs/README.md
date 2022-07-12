@@ -12,7 +12,7 @@ Before starting to build the battery, a solid foundation of basic knowledge is n
 Batteries are physical products; they must meet certain performance criteria to succeed.
 These criteria are specified in units. Establishing a solid foundation of unit is necessary to create and meet the correct performance criteria.
 
-### [Energy vs Power](energy-vs-power-md)
+### [Energy vs Power](energy-vs-power.md)
 
 
 ### Battery Characteristics
