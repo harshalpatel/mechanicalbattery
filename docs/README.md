@@ -1,3 +1,5 @@
+# The Mechanical Battery
+
 The Mechanical Battery is an energy storage solution that can cost effectively store excess renewable energy for long durations.
 
 The pages on this site document the research, development and hopefully deployment of this battery.
@@ -11,7 +13,7 @@ Batteries are physical products; they must meet certain performance criteria to 
 These criteria are specified in units. Establishing a solid foundation of unit is necessary to create and meet the correct performance criteria.
 
 ### [Energy vs Power](energy-vs-power.md)
-
+Often used interchangeably and absolutely not interchangeable; understanding what energy and power are and the differences between them is required to understand energy generation and storage. 
 
 ### Battery Characteristics
 ---
