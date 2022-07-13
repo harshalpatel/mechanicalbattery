@@ -1,5 +1,3 @@
-# The Mechanical Battery
-
 The Mechanical Battery is an energy storage solution that can cost effectively store excess renewable energy for long durations.
 
 The pages on this site document the research, development and hopefully deployment of this battery.
