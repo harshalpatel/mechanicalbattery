@@ -1,5 +1,5 @@
-### [Back to Home](README.md)
 # Energy vs Power
+### [Back to Home](README.md)
 
 ## Basic Definitions
 Energy is the capacity to do work; it measures the total amount of work done.
